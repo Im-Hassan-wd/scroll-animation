@@ -1,0 +1,24 @@
+{
+  "name": "scroll_animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Im-Hassan-wd/scroll-animation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Im-Hassan-wd/scroll-animation/issues"
+  },
+  "homepage": "https://github.com/Im-Hassan-wd/scroll-animation#readme",
+  "dependencies": {
+    "gsap": "^3.6.1",
+    "plugins": "^0.4.2",
+    "scrollmagic": "^2.0.8"
+  }
+}
